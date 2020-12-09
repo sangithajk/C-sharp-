@@ -1,0 +1,12 @@
+C:\Users\Sangeetha\source\repos\C-sharp-\AddAndConvertToBinary\AddAndConvertToBinary\bin\Debug\netcoreapp3.1\AddAndConvertToBinary.exe
+C:\Users\Sangeetha\source\repos\C-sharp-\AddAndConvertToBinary\AddAndConvertToBinary\bin\Debug\netcoreapp3.1\AddAndConvertToBinary.deps.json
+C:\Users\Sangeetha\source\repos\C-sharp-\AddAndConvertToBinary\AddAndConvertToBinary\bin\Debug\netcoreapp3.1\AddAndConvertToBinary.runtimeconfig.json
+C:\Users\Sangeetha\source\repos\C-sharp-\AddAndConvertToBinary\AddAndConvertToBinary\bin\Debug\netcoreapp3.1\AddAndConvertToBinary.runtimeconfig.dev.json
+C:\Users\Sangeetha\source\repos\C-sharp-\AddAndConvertToBinary\AddAndConvertToBinary\bin\Debug\netcoreapp3.1\AddAndConvertToBinary.dll
+C:\Users\Sangeetha\source\repos\C-sharp-\AddAndConvertToBinary\AddAndConvertToBinary\bin\Debug\netcoreapp3.1\AddAndConvertToBinary.pdb
+C:\Users\Sangeetha\source\repos\C-sharp-\AddAndConvertToBinary\AddAndConvertToBinary\obj\Debug\netcoreapp3.1\AddAndConvertToBinary.AssemblyInfoInputs.cache
+C:\Users\Sangeetha\source\repos\C-sharp-\AddAndConvertToBinary\AddAndConvertToBinary\obj\Debug\netcoreapp3.1\AddAndConvertToBinary.AssemblyInfo.cs
+C:\Users\Sangeetha\source\repos\C-sharp-\AddAndConvertToBinary\AddAndConvertToBinary\obj\Debug\netcoreapp3.1\AddAndConvertToBinary.csproj.CoreCompileInputs.cache
+C:\Users\Sangeetha\source\repos\C-sharp-\AddAndConvertToBinary\AddAndConvertToBinary\obj\Debug\netcoreapp3.1\AddAndConvertToBinary.dll
+C:\Users\Sangeetha\source\repos\C-sharp-\AddAndConvertToBinary\AddAndConvertToBinary\obj\Debug\netcoreapp3.1\AddAndConvertToBinary.pdb
+C:\Users\Sangeetha\source\repos\C-sharp-\AddAndConvertToBinary\AddAndConvertToBinary\obj\Debug\netcoreapp3.1\AddAndConvertToBinary.genruntimeconfig.cache
