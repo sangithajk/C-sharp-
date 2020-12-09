@@ -1,0 +1,13 @@
+C:\Users\Sangeetha\source\repos\C-sharp-\Maskify\Maskify\bin\Debug\netcoreapp3.1\Maskify.exe
+C:\Users\Sangeetha\source\repos\C-sharp-\Maskify\Maskify\bin\Debug\netcoreapp3.1\Maskify.deps.json
+C:\Users\Sangeetha\source\repos\C-sharp-\Maskify\Maskify\bin\Debug\netcoreapp3.1\Maskify.runtimeconfig.json
+C:\Users\Sangeetha\source\repos\C-sharp-\Maskify\Maskify\bin\Debug\netcoreapp3.1\Maskify.runtimeconfig.dev.json
+C:\Users\Sangeetha\source\repos\C-sharp-\Maskify\Maskify\bin\Debug\netcoreapp3.1\Maskify.dll
+C:\Users\Sangeetha\source\repos\C-sharp-\Maskify\Maskify\bin\Debug\netcoreapp3.1\Maskify.pdb
+C:\Users\Sangeetha\source\repos\C-sharp-\Maskify\Maskify\obj\Debug\netcoreapp3.1\Maskify.csprojAssemblyReference.cache
+C:\Users\Sangeetha\source\repos\C-sharp-\Maskify\Maskify\obj\Debug\netcoreapp3.1\Maskify.AssemblyInfoInputs.cache
+C:\Users\Sangeetha\source\repos\C-sharp-\Maskify\Maskify\obj\Debug\netcoreapp3.1\Maskify.AssemblyInfo.cs
+C:\Users\Sangeetha\source\repos\C-sharp-\Maskify\Maskify\obj\Debug\netcoreapp3.1\Maskify.csproj.CoreCompileInputs.cache
+C:\Users\Sangeetha\source\repos\C-sharp-\Maskify\Maskify\obj\Debug\netcoreapp3.1\Maskify.dll
+C:\Users\Sangeetha\source\repos\C-sharp-\Maskify\Maskify\obj\Debug\netcoreapp3.1\Maskify.pdb
+C:\Users\Sangeetha\source\repos\C-sharp-\Maskify\Maskify\obj\Debug\netcoreapp3.1\Maskify.genruntimeconfig.cache
