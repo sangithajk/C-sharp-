@@ -1,0 +1,13 @@
+C:\Users\Sangeetha\source\repos\C-sharp-\vowelcount\vowelcount\bin\Debug\netcoreapp3.1\vowelcount.exe
+C:\Users\Sangeetha\source\repos\C-sharp-\vowelcount\vowelcount\bin\Debug\netcoreapp3.1\vowelcount.deps.json
+C:\Users\Sangeetha\source\repos\C-sharp-\vowelcount\vowelcount\bin\Debug\netcoreapp3.1\vowelcount.runtimeconfig.json
+C:\Users\Sangeetha\source\repos\C-sharp-\vowelcount\vowelcount\bin\Debug\netcoreapp3.1\vowelcount.runtimeconfig.dev.json
+C:\Users\Sangeetha\source\repos\C-sharp-\vowelcount\vowelcount\bin\Debug\netcoreapp3.1\vowelcount.dll
+C:\Users\Sangeetha\source\repos\C-sharp-\vowelcount\vowelcount\bin\Debug\netcoreapp3.1\vowelcount.pdb
+C:\Users\Sangeetha\source\repos\C-sharp-\vowelcount\vowelcount\obj\Debug\netcoreapp3.1\vowelcount.csprojAssemblyReference.cache
+C:\Users\Sangeetha\source\repos\C-sharp-\vowelcount\vowelcount\obj\Debug\netcoreapp3.1\vowelcount.AssemblyInfoInputs.cache
+C:\Users\Sangeetha\source\repos\C-sharp-\vowelcount\vowelcount\obj\Debug\netcoreapp3.1\vowelcount.AssemblyInfo.cs
+C:\Users\Sangeetha\source\repos\C-sharp-\vowelcount\vowelcount\obj\Debug\netcoreapp3.1\vowelcount.csproj.CoreCompileInputs.cache
+C:\Users\Sangeetha\source\repos\C-sharp-\vowelcount\vowelcount\obj\Debug\netcoreapp3.1\vowelcount.dll
+C:\Users\Sangeetha\source\repos\C-sharp-\vowelcount\vowelcount\obj\Debug\netcoreapp3.1\vowelcount.pdb
+C:\Users\Sangeetha\source\repos\C-sharp-\vowelcount\vowelcount\obj\Debug\netcoreapp3.1\vowelcount.genruntimeconfig.cache
