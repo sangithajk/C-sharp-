@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mCVuuUzYCLVIA3wHXaRLwa6hjRtN4kOfLs9YOyMI9GSmxfNla+LkgRXQv2TpwjzyW/9NS/BC1ws7l5hTtEXaBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sangeetha\\source\\repos\\C-sharp-\\Persistence\\Persistence\\Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sangeetha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Sangeetha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
