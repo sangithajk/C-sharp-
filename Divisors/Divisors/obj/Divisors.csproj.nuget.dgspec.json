@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sangeetha\\source\\repos\\C-sharp-\\Divisors\\Divisors\\Divisors.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sangeetha\\source\\repos\\C-sharp-\\Divisors\\Divisors\\Divisors.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sangeetha\\source\\repos\\C-sharp-\\Divisors\\Divisors\\Divisors.csproj",
+        "projectName": "Divisors",
+        "projectPath": "C:\\Users\\Sangeetha\\source\\repos\\C-sharp-\\Divisors\\Divisors\\Divisors.csproj",
+        "packagesPath": "C:\\Users\\Sangeetha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sangeetha\\source\\repos\\C-sharp-\\Divisors\\Divisors\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sangeetha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.8.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
