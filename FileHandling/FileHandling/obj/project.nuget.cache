@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KOiDSnNmx+H++yrmxkyc19vgfHPMAU5lWkJ5bUcR1tghcyohpEeWy1nfooWx/wRYIEDwlfUQsOuU6JJWsCAIjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sangeetha\\source\\repos\\C-sharp-\\FileHandling\\FileHandling\\FileHandling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sangeetha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Sangeetha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
