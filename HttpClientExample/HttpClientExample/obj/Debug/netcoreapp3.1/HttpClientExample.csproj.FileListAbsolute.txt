@@ -1,0 +1,17 @@
+C:\Users\Sangeetha\source\repos\C-sharp-\HttpClientExample\HttpClientExample\obj\Debug\netcoreapp3.1\HttpClientExample.csprojAssemblyReference.cache
+C:\Users\Sangeetha\source\repos\C-sharp-\HttpClientExample\HttpClientExample\obj\Debug\netcoreapp3.1\HttpClientExample.AssemblyInfoInputs.cache
+C:\Users\Sangeetha\source\repos\C-sharp-\HttpClientExample\HttpClientExample\obj\Debug\netcoreapp3.1\HttpClientExample.AssemblyInfo.cs
+C:\Users\Sangeetha\source\repos\C-sharp-\HttpClientExample\HttpClientExample\obj\Debug\netcoreapp3.1\HttpClientExample.csproj.CoreCompileInputs.cache
+C:\Users\Sangeetha\source\repos\C-sharp-\HttpClientExample\HttpClientExample\bin\Debug\netcoreapp3.1\HttpClientExample.exe
+C:\Users\Sangeetha\source\repos\C-sharp-\HttpClientExample\HttpClientExample\bin\Debug\netcoreapp3.1\HttpClientExample.deps.json
+C:\Users\Sangeetha\source\repos\C-sharp-\HttpClientExample\HttpClientExample\bin\Debug\netcoreapp3.1\HttpClientExample.runtimeconfig.json
+C:\Users\Sangeetha\source\repos\C-sharp-\HttpClientExample\HttpClientExample\bin\Debug\netcoreapp3.1\HttpClientExample.runtimeconfig.dev.json
+C:\Users\Sangeetha\source\repos\C-sharp-\HttpClientExample\HttpClientExample\bin\Debug\netcoreapp3.1\HttpClientExample.dll
+C:\Users\Sangeetha\source\repos\C-sharp-\HttpClientExample\HttpClientExample\bin\Debug\netcoreapp3.1\HttpClientExample.pdb
+C:\Users\Sangeetha\source\repos\C-sharp-\HttpClientExample\HttpClientExample\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Sangeetha\source\repos\C-sharp-\HttpClientExample\HttpClientExample\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sangeetha\source\repos\C-sharp-\HttpClientExample\HttpClientExample\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Sangeetha\source\repos\C-sharp-\HttpClientExample\HttpClientExample\obj\Debug\netcoreapp3.1\HttpClientExample.csproj.CopyComplete
+C:\Users\Sangeetha\source\repos\C-sharp-\HttpClientExample\HttpClientExample\obj\Debug\netcoreapp3.1\HttpClientExample.dll
+C:\Users\Sangeetha\source\repos\C-sharp-\HttpClientExample\HttpClientExample\obj\Debug\netcoreapp3.1\HttpClientExample.pdb
+C:\Users\Sangeetha\source\repos\C-sharp-\HttpClientExample\HttpClientExample\obj\Debug\netcoreapp3.1\HttpClientExample.genruntimeconfig.cache
